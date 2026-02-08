@@ -11,18 +11,12 @@ requirements.txt
 The trained model file is large and cannot be hosted directly on GitHub.
 You can download it here:
 [Download model.h5](https://drive.google.com/file/d/1BBDgM4Du11GIdRpi6E49P1TjxSems8Ed/view?usp=sharing)
-
-
-## ▶️ How to Run
-
+## How to Run
 Follow these steps to run the project locally.
-
 ### 1) Download the repository
 Click the green **Code** button and select **Download ZIP**, then extract the folder.
-
 ### 2) Download the trained model
 Download `model.h5` from the link provided in this README and place it in the project root directory (same folder as `app.py`).
-
 The folder structure should look like this:
 ```
 project_folder/
@@ -30,17 +24,14 @@ project_folder/
 │── requirements.txt
 │── model.h5
 ```
-
 ### 3) Open terminal in the project folder
 Open the project folder and launch a terminal inside it.
-
 ### 4) Install dependencies
 Run the following command:
 
 ```
 pip install -r requirements.txt
 ```
-
 ### 5) Run the Streamlit app
 Run:
 
