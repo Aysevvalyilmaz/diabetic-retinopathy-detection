@@ -7,3 +7,7 @@ notebooks/
 src/
 images/
 requirements.txt
+## 📦 Trained Model
+The trained model file is large and cannot be hosted directly on GitHub.
+You can download it here:
+[Download model.h5](https://drive.google.com/file/d/1BBDgM4Du11GIdRpi6E49P1TjxSems8Ed/view?usp=sharing)
